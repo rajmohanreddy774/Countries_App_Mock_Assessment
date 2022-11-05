@@ -88,6 +88,7 @@ const Filtering = ({
             <MenuItem value="Africa">Africa</MenuItem>
           </Select>
         </Box>
+       <button type="submit">Enter</button>
       </form>
     </>
   );
